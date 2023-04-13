@@ -1,4 +1,4 @@
-# Landing page [Compare Machinery Design 3](https://comparebusinessfinanceloans.com.au/)
+# Landing page [Compare Machinery Design 3](https://comparemachineryfinanceloans.com.au/financewidget/)
 
 This is a landing page boilerplate that uses PHP scripting language
 
